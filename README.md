@@ -26,14 +26,6 @@ I am a passionate developer focused on Artificial Intelligence, Machine Learning
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divine-Emperor&show_icons=true&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=79C0FF&title_color=79C0FF" alt="Harsh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-Emperor&layout=compact&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=79C0FF" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect:
 <a href="https://www.linkedin.com/in/harsh-sharma-a42995347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:harshsharma.ic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
